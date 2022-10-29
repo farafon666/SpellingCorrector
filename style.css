@@ -1,0 +1,28 @@
+body {
+    text-align: center;
+    margin: 10px;
+    font-family: Verdana, Arial, sans-serif;
+    font-size: 16px;
+    background: #232323;
+    color: #a427e0;
+}
+
+h1 {
+    font-size: 48px;
+    text-align: center;
+}
+
+.text {
+    background: #4f4f4f;
+    color: aqua;
+    height: 300px;
+    min-width: 400px;
+    margin-left: 15vw;
+    margin-right: 15vw;
+    border: solid;
+    border-width: 1px;
+    text-align: left;
+    -webkit-box-shadow: 6px 10px 9px 0px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 6px 10px 9px 0px rgba(0, 0, 0, 0.75);
+    box-shadow: 6px 10px 9px 0px rgba(0, 0, 0, 0.75);
+}
