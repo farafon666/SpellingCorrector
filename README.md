@@ -1,0 +1,2 @@
+# SpellingCorrector
+Text autocorrect.
